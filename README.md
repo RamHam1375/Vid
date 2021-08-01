@@ -1,0 +1,2 @@
+# Vid
+Animated Video Thumbnail
